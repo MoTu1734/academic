@@ -11,11 +11,12 @@ main:
   # - title: "Research"
   #   url: /research/
 
-  # - title: "Project"
-  #   url: /project/
-
   - title: "Achievement"
     url: /achievement/
+
+  - title: "Project"
+    url: /project/
+  
   # - title: "Publications"
   #   url: /publications/
 

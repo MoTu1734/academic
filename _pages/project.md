@@ -10,11 +10,11 @@ author_profile: true
 
 ---
 
-## **2024.03 - 2024.07 | ASABE Student Robotics Competition: Sick Leaf Identification and Pruning robot**
+## **2024.03 - 2024.07 | ASABE Student Robotics Competition: Sick Leaf Pruning Robot**
 
 ---
 
-## **2024.10 - 2024.12 | Shenzhen Intelligent Robot Agile Hand Competition: Agile Hand Grasp and Place**
+## **2024.10 - 2024.12 | Intelligent Robot Agile Hand Competition: Agile Hand Grasp and Place**
 
 ---
 

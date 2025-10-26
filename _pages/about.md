@@ -17,10 +17,10 @@ My research interest includes **Robotic Manipulation**, **Robotic Haptics**, **C
 Education
 =========
 
-**2023.09 - 2027.06** | B.Eng., Majored in Robotics Engineering (Honors Program), College of Control Science and Engineering, Zhejiang University
-**2023.09 - 2027.06** | B.Eng., Minored in Advanced Honor Class of Engineering Education, Chu Kochen Honors College, Zhejiang University
-**2020.09 - 2023.06** | High School Student from Hangzhou No.2 High School of Zhejiang Province
-**2017.09 - 2020.06** | Junior School Student from Hangzhou No.2 High School Baimahu
+**2023.09-2027.06** | B.Eng., Majored in Robotics Engineering (Honors Program), College of Control Science and Engineering, Zhejiang University
+**2023.09-2027.06** | B.Eng., Minored in Advanced Honor Class of Engineering Education, Chu Kochen Honors College, Zhejiang University
+**2020.09-2023.06** | High School Student from Hangzhou No.2 High School of Zhejiang Province
+**2017.09-2020.06** | Junior School Student from Hangzhou No.2 High School Baimahu
 
 
 [Email](mailto:jiakangjin1734@gmail.com) / [Github](https://github.com/MoTu1734) / [WeChat](../images/Wechat.jpg) 

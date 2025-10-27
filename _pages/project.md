@@ -78,15 +78,15 @@ In this competition, we achieved the coordination of arms to complete the tasks 
 
 <div style="text-align: center;">
   <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
-    <img src="../images/ship/1.jpg" alt="ship1" width="200"  style="height: 270px;">
+    <img src="../images/ship/1.jpg" alt="ship1" width="200"  style="height: 160px;">
     <br>
   </div>
   <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
-    <img src="../images/ship/2.jpg" alt="ship1" width="200"  style="height: 270px;">
+    <img src="../images/ship/2.jpg" alt="ship1" width="200"  style="height: 160px;">
     <br>
   </div>
   <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
-    <img src="../images/ship/4.jpg" alt="ship1" width="200"  style="height: 270px;">
+    <img src="../images/ship/4.jpg" alt="ship1" width="200"  style="height: 160px;">
     <br>
   </div>
 </div>

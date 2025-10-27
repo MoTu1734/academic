@@ -63,7 +63,6 @@ In this competition, we achieved the coordination of arms to complete the tasks 
 <div style="text-align: center;">
   <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
     <em>(The video of the final round was not saved at that time. Here is a demo from the preliminary round.)</em>
-    <br>
     <video width="640" height="480" controls>
         <source src="../images/ihander/2.mp4" type="video/mp4">
         Your browser does not support the video tag.

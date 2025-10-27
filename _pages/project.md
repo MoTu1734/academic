@@ -36,12 +36,12 @@ During the summer vacation of my freshman year, I was honored to go to Anaheim, 
   <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
     <img src="../images/ihander/1.jpg" alt="Team photo" style="height: 240px;">
     <br>
-    <em>Steered-Wheeled Robot Basic Motion</em>
+    <em>Team photo</em>
   </div>
   <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
     <img src="../images/ihander/2.jpg" alt="Competition poster" style="height: 240px;">
     <br>
-    <em>Drone Gimbal Auto-Aiming</em>
+    <em>Competition poster</em>
   </div>
 </div>
 
@@ -49,12 +49,12 @@ During the summer vacation of my freshman year, I was honored to go to Anaheim, 
   <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
     <img src="../images/ihander/4.jpg" alt="Group photo at the final site" style="height: 270px;">
     <br>
-    <em>Steered-Wheeled Robot Basic Motion</em>
+    <em>Group photo at the final site</em>
   </div>
   <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
     <img src="../images/ihander/5.jpg" alt="Photos of the event venue" style="height: 270px;">
     <br>
-    <em>Drone Gimbal Auto-Aiming</em>
+    <em>Photos of the event venue</em>
   </div>
 </div>
 
@@ -76,12 +76,42 @@ In this competition, we achieved the coordination of arms to complete the tasks 
 
 ## **2025.04 - Present | Autonomous Control System For Multi-ship Coordination**
 
+<img src="../images/ship/1.jpg" alt="ASABE Robot" width="300" style="float: right; margin-right: 20px; margin-bottom: 10px;">
+
+<img src="../images/ship/2.jpg" alt="ASABE Robot" width="300" style="float: right; margin-right: 20px; margin-bottom: 10px;">
+
+<img src="../images/ship/4.jpg" alt="ASABE Robot" width="300" style="float: right; margin-right: 20px; margin-bottom: 10px;">
+
+In this project, we need to design a system where two small towing boats (powered) pull a large boat (unpowered) behind to complete self-cleaning on the water surface. At present, our team has completed the detection and tracking of the target, the simulation of the control of the towed vessel based on PID, the positioning of the large and small boats, and the path planning based on A*. However, due to the overly complex water surface conditions, we decided to change the plan and install a lidar above the small towing vessel to achieve more accurate mapping and positioning.
+
+<em> (At present, the company we are in contact with is installing the corresponding hardware. Once the hardware installation is completed, we will proceed with the next step of scheme verification and physical debugging.) </em>
+
+<div style="clear: both;"></div>
+
 ---
 
 ## **2025.07 - Present | Robot Tactile Sensor**
 
 ### A Low-Cost Super-Resolution Tactile Sensor
+<div style="text-align: center;">
+  <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
+    <img src="../images/tactile/1.png" alt="Pillar Structure" width="450" style="float: right; margin-right: 20px; margin-bottom: 10px;">
+  </div>
+</div>
+Inspired by the mechanism of human skin embedding receptors in soft tissues, our group designed a low-cost tactile sensor that achieves super-resolution sensing through optimizing the soft silicone layer rather than increasing sensor density. By systematically testing different thickness and hardness combinations, we selected the optimal parameters: 6mm thickness with Shore hardness 5.
+With only 9 pressure sensing units in a sparse array, the sensor achieves millimeter-level localization accuracy over a 22.8 × 22.8 mm area. The force estimation error is 0.61 N on average. Notably, the sensor is only 6 mm thick, much more compact than vision-based tactile sensors (15 mm). The soft layer enables force propagation across multiple sensors, and we developed a reconstruction algorithm based on bivariate Gaussian distribution to estimate contact location and magnitude.
 
-### 111
+### Pillar-Structure Enhancement
+<div style="text-align: center;">
+  <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
+    <img src="../images/tactile/2.png" alt="Pillar Structure" width="300" style="float: right; margin-right: 20px; margin-bottom: 10px;">
+  </div>
+</div>
 
-### 222
+To further enhance sensitivity and consistency, I incorporated a bio-inspired pillar structure mimicking the stratum spinosum of human skin. The design features cylindrical pillars (5mm diameter, 2mm height) beneath a 4mm epidermis layer.
+
+Comparative experiments showed that the pillar structure reduces force localization error by over 30%. The pillars effectively concentrate mechanical stress and transmit it to the pressure sensors, resulting in higher sensitivity and better consistency. This improvement was also validated in robotic grasping experiments, where the enhanced sensor enabled more reliable object manipulation and damage prevention.
+<div style="clear: both;"></div>
+
+### Present Stage
+With the arrival of the new equipment "flexible electronic printer" in the laboratory, I will explore how to design more complex and efficient circuits and structures so that the new tactile sensor can accurately detect horizontal, vertical and rotational forces and moments, and respond more quickly with higher resolution. Ultimately, this tactile sensor was designed as a complete "electronic skin" and embedded in the robot's hands and arms to achieve an integrated system of "tactile - hand - arm".

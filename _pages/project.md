@@ -24,7 +24,7 @@ This is the first time during my undergraduate studies that I have stepped into 
 
 <img src="../images/ASABE/2.png" alt="ASABE Robot" width="300" style="float: right; margin-right: 20px; margin-bottom: 10px;">
 
-During the summer vacation of my freshman year, I was honored to go to Anaheim, USA to participate in the ASABE International College Students' Robot Design Competition and achieved the excellent result of ranking 4th internationally. During the competition, we successfully designed a robot that operates in parallel with two arms for the identification and pruning of diseased leaves. During this experience, I learned the use of the yolo algorithm, the configuration and basic operations of the ubuntu system, the relevant basic knowledge of ros and OpenCV, SolidWorks, 3D printing, the drawing and processing of PCB boards, and other more advanced robot-related technologies.
+During the summer vacation of my freshman year, I was honored to go to Anaheim, USA to participate in the ASABE International College Students' Robot Design Competition and achieved the excellent result of ranking 4th internationally. During the competition, we successfully designed a robot that operates in parallel with two arms for the identification and pruning of diseased leaves. During this experience, I learned the use of the yolo algorithm, the configuration and basic operations of the ubuntu system, the relevant basic knowledge of Jetson Orin Nano, ros and OpenCV, SolidWorks, 3D printing, the drawing and processing of PCB boards, and other more advanced robot-related technologies.
 
 <div style="clear: both;"></div>
 

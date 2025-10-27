@@ -20,10 +20,11 @@ This is the first time during my undergraduate studies that I have stepped into 
 
 <img src="../images/ASABE/1.jpg" alt="ASABE Robot" width="300" style="float: right; margin-right: 20px; margin-bottom: 10px;">
 
+<em> (At that time, no photos were saved. Only one photo of the robot left before departure was found.) </em>
+
 <img src="../images/ASABE/2.png" alt="ASABE Robot" width="300" style="float: right; margin-right: 20px; margin-bottom: 10px;">
 
 During the summer vacation of my freshman year, I was honored to go to Anaheim, USA to participate in the ASABE International College Students' Robot Design Competition and achieved the excellent result of ranking 4th internationally. During the competition, we successfully designed a robot that operates in parallel with two arms for the identification and pruning of diseased leaves. During this experience, I learned the use of the yolo algorithm, the configuration and basic operations of the ubuntu system, the relevant basic knowledge of ros and OpenCV, SolidWorks, 3D printing, the drawing and processing of PCB boards, and other more advanced robot-related technologies.
-<em> (At that time, no photos were saved. Only one photo of the robot left before departure was found.) </em>
 
 <div style="clear: both;"></div>
 
@@ -33,12 +34,12 @@ During the summer vacation of my freshman year, I was honored to go to Anaheim, 
 
 <div style="text-align: center;">
   <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
-    <img src="../images/ihander/1.jpg" alt="Infantry Robot Demo" style="height: 270px;">
+    <img src="../images/ihander/1.jpg" alt="Team photo" style="height: 240px;">
     <br>
     <em>Steered-Wheeled Robot Basic Motion</em>
   </div>
   <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
-    <img src="../images/ihander/2.jpg" alt="Aerial Robot Demo" style="height: 270px;">
+    <img src="../images/ihander/2.jpg" alt="Competition poster" style="height: 240px;">
     <br>
     <em>Drone Gimbal Auto-Aiming</em>
   </div>
@@ -46,12 +47,12 @@ During the summer vacation of my freshman year, I was honored to go to Anaheim, 
 
 <div style="text-align: center;">
   <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
-    <img src="../images/ihander/4.jpg" alt="Infantry Robot Demo" style="height: 270px;">
+    <img src="../images/ihander/4.jpg" alt="Group photo at the final site" style="height: 270px;">
     <br>
     <em>Steered-Wheeled Robot Basic Motion</em>
   </div>
   <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
-    <img src="../images/ihander/5.jpg" alt="Aerial Robot Demo" style="height: 270px;">
+    <img src="../images/ihander/5.jpg" alt="Photos of the event venue" style="height: 270px;">
     <br>
     <em>Drone Gimbal Auto-Aiming</em>
   </div>

@@ -7,6 +7,8 @@ author_profile: true
 ---
 
 ## **2023.09 - 2023.10 | China Agricultural Robot Competition: Strawberry-picking Robot**
+<img src="/images/China Agricultural Robot Competition/1.jpg" alt="RoboMaster Robot" width="300" style="float: right; margin-right: 20px; margin-bottom: 10px;">
+
 
 ---
 

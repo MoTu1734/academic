@@ -5,9 +5,13 @@ permalink: /achievement/
 author_profile: true
 ---
 
+---
+
 ## Scholarship
 - **National Scholarship**, China, _November 2024_
 - **First Prize Scholarship**, Zhejiang University, _November 2024_
+
+---
 
 ## Award
 + Third Prize (**the Second Place among Universities**), Shenzhen Intelligent Robot Agile Hand Competition Finals, Shenzhen, China <br>
@@ -22,6 +26,8 @@ _Awarded by the Chinese Mathematical Society, December 2023_
 _Awarded by the China Agricultural Machinery Industry Association, October 2023_
 + **First Prize**, The 8th Annual International Mathematical Modeling Challenge, Hangzhou, China <br>
 _Awarded by International Mathematical Modeling Challenge Committee, 2022_
+
+---
 
 ## Honor
 - **Outstanding Student**, Zhejiang University, *October 2024*

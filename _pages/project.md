@@ -8,7 +8,7 @@ author_profile: true
 
 ## **2023.09 - 2023.10 | China Agricultural Robot Competition: Strawberry-picking Robot**
 
-<img src="/images/China Agricultural Robot Competition_1.jpg" alt="Group Photo 1" width="300" style="float: right; margin-right: 20px; margin-bottom: 10px;">
+<img src="/images/China_Agricultural_Robot_Competition_1.jpg" alt="Group Photo 1" width="300" style="float: right; margin-right: 20px; margin-bottom: 10px;">
 
 This is the first time during my undergraduate studies that I have stepped into a robot laboratory and come into direct contact with robots. During this experience, I learned to use simple tools related to robots, such as Arduino and OpenMV. At the same time, I also gained a preliminary understanding of various skills of robots, including the identification of fasteners such as screws, nuts, and studs, as well as the use of tools like welding torches, handsaws, and bench drills. In this competition, I achieved the autonomous line patrol of the crawler robot, but due to my lack of experience, I failed to complete the identification and picking of strawberries.
 

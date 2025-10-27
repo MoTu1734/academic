@@ -108,6 +108,7 @@ In this project, we need to design a system where two small towing boats (powere
   </div>
 </div>
 Inspired by the mechanism of human skin embedding receptors in soft tissues, our group designed a low-cost tactile sensor that achieves super-resolution sensing through optimizing the soft silicone layer rather than increasing sensor density. By systematically testing different thickness and hardness combinations, we selected the optimal parameters: 6mm thickness with Shore hardness 5.
+
 With only 9 pressure sensing units in a sparse array, the sensor achieves millimeter-level localization accuracy over a 22.8 × 22.8 mm area. The force estimation error is 0.61 N on average. Notably, the sensor is only 6 mm thick, much more compact than vision-based tactile sensors (15 mm). The soft layer enables force propagation across multiple sensors, and we developed a reconstruction algorithm based on bivariate Gaussian distribution to estimate contact location and magnitude.
 
 ### Pillar-Structure Enhancement

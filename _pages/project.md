@@ -76,11 +76,20 @@ In this competition, we achieved the coordination of arms to complete the tasks 
 
 ## **2025.04 - Present | Autonomous Control System For Multi-ship Coordination**
 
-<img src="../images/ship/1.jpg" alt="ASABE Robot" width="300" style="float: right; margin-right: 20px; margin-bottom: 10px;">
-
-<img src="../images/ship/2.jpg" alt="ASABE Robot" width="300" style="float: right; margin-right: 20px; margin-bottom: 10px;">
-
-<img src="../images/ship/4.jpg" alt="ASABE Robot" width="300" style="float: right; margin-right: 20px; margin-bottom: 10px;">
+<div style="text-align: center;">
+  <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
+    <img src="../images/ship/1.jpg" alt="ship1" width="200"  style="height: 270px;">
+    <br>
+  </div>
+  <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
+    <img src="../images/ship/2.jpg" alt="ship1" width="200"  style="height: 270px;">
+    <br>
+  </div>
+  <div style="display: inline-block; margin: 0 10px; vertical-align: top;">
+    <img src="../images/ship/4.jpg" alt="ship1" width="200"  style="height: 270px;">
+    <br>
+  </div>
+</div>
 
 In this project, we need to design a system where two small towing boats (powered) pull a large boat (unpowered) behind to complete self-cleaning on the water surface. At present, our team has completed the detection and tracking of the target, the simulation of the control of the towed vessel based on PID, the positioning of the large and small boats, and the path planning based on A*. However, due to the overly complex water surface conditions, we decided to change the plan and install a lidar above the small towing vessel to achieve more accurate mapping and positioning.
 

@@ -12,7 +12,7 @@ I'm currently a **third-year** undergraduate student from [College of CSE](http:
 
 I'm very fortunate to be advised by [Prof. Gaofeng Li](https://scholar.google.com/citations?hl=en&user=EFpCF6oAAAAJ&view_op=list_works&citft=1&citft=3&email_for_op=jiakangjin1734%40gmail.com&gmla=AKzYXQ3pjonjfcvIcuzjrt-a79jSucd2TlJ4BBfirmpB73ZODDPCVVgFAET2rGp3CllRMP0xIwMz4GwPuVATQBOGs0qYwqYSSF0wEkn7MRpBQfs1QsfI8zvZ02Na1qAPx4EBnOZjaHyDhTtL1a9F2qMjWdqO6ZtSTHQkENPB_WFKxA2EenhmciM-j5nKNw-R4vdNppbBd0qgOALXgnRXFHLv_GUIdkAzwGAjP7OVNfE8VZRYRYxBaw) and [Prof. Yu Zhang](https://person.zju.edu.cn/zhangyu) from Zhejiang University.
 
-My research interest includes **Robotic Manipulation**, **Robotic Haptics**, **Computer Vision**, and **Reinforcement Learning**. I am also passionate about exploring more research areas. Please feel free to contact me!
+My research interest includes **Robotic Manipulation**, **Robotic Haptics**, **Computer Vision**, **Reinforcement Learning** and **World Model**. I am also passionate about exploring more research areas. Please feel free to contact me!
 
 Education
 =========

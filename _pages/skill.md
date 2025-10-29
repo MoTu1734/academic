@@ -18,6 +18,11 @@ author_profile: true
 - Programming language: **C**, **Python**, **MATLAB**, C++ (primer).
 - Markup language: **Latex**, Markdown, **Typst**.
 - Robot-related tools: **ROS**, Rviz, Gazebo, Coppeliasim, OpenMV, Arduino, etc.
+- Deep Learning Tools: Pytorch, Pandas, Numpy, Transformers.
 - Optimization solver: COPT, **Gurobi**.
 - Literature management tools: **Zotero**.
 - Others: Photoshop (Ps), Premiere Pro (Pr), CapCut, Hypic, etc.
+
+---
+## Self-evaluation
+Innovative, Self-motivated, Passionate.
